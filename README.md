@@ -6,7 +6,7 @@ Funkcionalnosti:
   Prodavac:
   
     Pretraga projekcije - prodavac ima mogućnost pretrage unetih projekcija
-    Prodaja karata - prodavac takodđe ima mogućnost i prodaje karata za projekciju
+    Prodaja karata - prodavac takođe ima mogućnost i prodaje karata za projekciju
 
   Menadzer:
   
