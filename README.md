@@ -1,18 +1,23 @@
-U ovom projektu je bio zadatak napraviti aplikaciju za poslovanje bioskopa primenom osnovnog znanja u programskom jeziku Python.
-U aplikaciji postoji dve uloge korisnika "Prodavac" i "Menadzer"
+Description:
 
-Funkcionalnosti:
+The task of this project was to create an application for cinema business management using basic Python programming skills. The application features two types of users: "Salesperson" and "Manager."
 
-  Prodavac:
-  
-    Pretraga projekcije - prodavac ima mogućnost pretrage unetih projekcija
-    Prodaja karata - prodavac takođe ima mogućnost i prodaje karata za projekciju
+Features:
+Salesperson:
 
-  Menadzer:
-  
-    Pretraga projekcije - Menadzer takođe ima mogućnost pretrage projekcije
-    Unos projekcije - Menadzer ima mogućnost da unosi nove projekcije
-    Brisanje projekcija - Menadzer takođe ima mogućnost brisanja projekcije
-    Izmena projekcije - Menadzer ima mogućnost izmene već postojeće projekcije
-    Unos prodavca - Menadzer ima mogućnost dodavanja novog prodavca
+Projection Search: The salesperson can search for existing projections.
+
+Ticket Sales: The salesperson has the ability to sell tickets for a projection.
+
+Manager:
+
+Projection Search: The manager can also search for projections.
+
+Add Projection: The manager can add new projections to the system.
+
+Delete Projection: The manager has the ability to delete projections.
+
+Edit Projection: The manager can modify existing projections.
+
+Add Salesperson: The manager has the ability to add new salespeople to the system.
     
